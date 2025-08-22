@@ -1,3 +1,8 @@
+## [0.0.1] - August 2025
+
+* Forked from keyboard_attachable
+* Change dependency `flutter_keyboard_visibility` to `flutter_keyboard_visibility_fork`
+
 ## [2.2.0] - October 2023
 
 * Upgrades Gradle and Manifest Updates for improved compatibility.

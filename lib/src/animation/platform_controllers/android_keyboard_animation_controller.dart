@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:keyboard_attachable/src/animation/keyboard_animation_controller.dart';
+import 'package:keyboard_attachable_fork/src/animation/keyboard_animation_controller.dart';
 
 class AndroidKeyboardAnimationController
     implements KeyboardAnimationController {

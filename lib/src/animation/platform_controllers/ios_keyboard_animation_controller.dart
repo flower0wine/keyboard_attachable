@@ -1,7 +1,7 @@
 import 'package:flutter/animation.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/physics.dart';
-import 'package:keyboard_attachable/src/animation/keyboard_animation_controller.dart';
+import 'package:keyboard_attachable_fork/src/animation/keyboard_animation_controller.dart';
 
 class IOSKeyboardAnimationController implements KeyboardAnimationController {
   IOSKeyboardAnimationController({required TickerProvider vsync})

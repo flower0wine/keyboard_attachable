@@ -1,11 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:keyboard_attachable/keyboard_attachable.dart';
-import 'package:keyboard_attachable/src/animation/keyboard_animation_controller.dart';
-import 'package:keyboard_attachable/src/animation/keyboard_animation_injector.dart';
-import 'package:keyboard_attachable/src/visibility/default_keyboard_visibility_controller.dart';
-import 'package:keyboard_attachable/src/visibility/keyboard_visibility_controller.dart';
+import 'package:keyboard_attachable_fork/keyboard_attachable.dart';
+import 'package:keyboard_attachable_fork/src/animation/keyboard_animation_controller.dart';
+import 'package:keyboard_attachable_fork/src/animation/keyboard_animation_injector.dart';
+import 'package:keyboard_attachable_fork/src/visibility/default_keyboard_visibility_controller.dart';
+import 'package:keyboard_attachable_fork/src/visibility/keyboard_visibility_controller.dart';
 
 /// Signature for builders used in custom transitions for KeyboardAttachable.
 ///

@@ -10,7 +10,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  keyboard_attachable:
+  keyboard_attachable_fork:
     path: ../
 
 dev_dependencies:

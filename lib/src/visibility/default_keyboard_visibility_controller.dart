@@ -1,6 +1,6 @@
-import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart'
+import 'package:flutter_keyboard_visibility_fork/flutter_keyboard_visibility.dart'
     as fkv;
-import 'package:keyboard_attachable/src/visibility/keyboard_visibility_controller.dart';
+import 'package:keyboard_attachable_fork/src/visibility/keyboard_visibility_controller.dart';
 
 class DefaultKeyboardVisibilityController
     implements KeyboardVisibilityController {

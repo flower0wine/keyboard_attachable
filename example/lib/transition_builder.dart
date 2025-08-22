@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:keyboard_attachable/keyboard_attachable.dart';
+import 'package:keyboard_attachable_fork/keyboard_attachable.dart';
 
 void main() => runApp(Example());
 
